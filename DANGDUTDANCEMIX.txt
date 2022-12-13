@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Musica| MUSIK | |
-https://www.youtube.com/c/MusicaStudios/live
+INDOSIAR| LOKAL | |
+https://www.youtube.com/watch?v=Gvfr_OoTp1E

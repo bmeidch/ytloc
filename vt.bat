@@ -1,4 +1,4 @@
 pip install requests
 
 cd scripts/
-python NAGASWARA.py > ../NAGASWARA.m3u8
+python vt.py > ../vt.m3u8
